@@ -1,11 +1,39 @@
-- 👋 Hi, I’m Nathan
-- 👀 I’m interested in cyber security, game development, web development and programing in general
-- 🌱 I’m currently learning C++, Java, SQL, JS, Python and more  
-- 💞️ I’m looking to collaborate on any interseting project 
-- 📫 How to reach me -> n-hunter@hotmail.com | https://www.linkedin.com/in/h-nathan
-  
- ![Profile View Counter](https://komarev.com/ghpvc/?username=nHunter0)
-<!---
-nHunter0/nHunter0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Heading -->
+<h3 align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Hi, I'm Nathan H <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h3>
+
+<!-- Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nHunter0" alt="nathan" />
+</p>
+
+<!-- Socials --> 
+<p align="center">
+  <a href="https://nhunter0.github.io/Portfolio/" target="_blank">Website</a> •
+  <a href="https://www.linkedin.com/in/h-nathan" target="_blank">LinkedIn</a>
+</p>
+
+<hr>
+
+<!-- About me -->
+<h3 align="left"> About me</h3>
+
+<p align="left">
+  I am currently pursuing my undergraduate degree in Computer Science at the University of Wollongong.
+</p>
+
+<ul>
+  <li>👀 I’m interested in cyber security, game development, web development and programming in general</li>
+  <li>🌱 I’m currently learning C++, Java, SQL, JS, Python and more</li>
+  <li>💞️ I’m looking to collaborate on any interesting project</li>
+</ul>
+
+<hr>
+
+<!-- Contact -->
+<h4 align="right">Reach me at</h4>
+<p align="right"> 
+  n-hunter@hotmail.com | <a href="https://www.linkedin.com/in/h-nathan">LinkedIn</a>
+</p>
