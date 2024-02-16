@@ -14,7 +14,7 @@
 
 <!-- About me -->
 <h2>About Me</h2>
-<p>Hi there! My name is Nathan, and I'm an undergraduate student at the University of Wollongong pursuing a degree in Computer Science.</p>
+<p>Hi there! My name is Nathan, and I'm a recent graduate student at the University of Wollongong pursuing a degree in Computer Science.</p>
 <p>As an aspiring software developer, I am always seeking new challenges and opportunities to expand my skills and knowledge. I am particularly interested in the areas of data science, web development, and cybersecurity, but I'm always open to exploring new areas of computer science.</p>
 <ul>
   <li>🔭 Currently, I'm working on a project that aims to generate social stories for children with disabilities.</li>
