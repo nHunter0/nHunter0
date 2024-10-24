@@ -11,9 +11,18 @@
 </p>
 
 <!-- CTA -->
-<samp>- 📫 Reach me at [LinkedIn](https://linkedin.com/in/h-nathan)</samp>
+<!-- Obfuscated LinkedIn & Email using HTML entities -->
+<samp>- 📫 Reach me at 
+    <a href="https://linkedin&#46;com/in/h&#45;nathan">
+        linkedin&#46;com/in/h&#45;nathan
+    </a>
+</samp>
 
-<samp>- 📧 Contact: n-hunter@hotmail.com</samp>
+<samp>- 📧 Contact: 
+    <a href="mailto:n&#45;hunter&#64;hotmail&#46;com">
+        n&#45;hunter&#64;hotmail&#46;com
+    </a>
+</samp>
 
 <samp>- 🔐 Working on secure and reliable software solutions with a focus on improving cybersecurity practices 🛡️</samp>
 
