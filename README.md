@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1 align="center"><samp>Building Solutions to Enhance Forensics</samp></h1>
 <h2 align="center"><samp>Hi, I'm Nathan, H! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></samp></h2>
-<h3 align="center"><samp>A software engineer and forensics expert from Australia</samp> </h3>
+<h3 align="center"><samp>A Forensic Software Engineer based in Australia</samp> </h3>
 
 <!-- Image and Profile views -->
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
@@ -24,7 +24,7 @@
     </a>
 </samp>
 
-<samp>- 🔐 Working on secure and reliable software solutions with a focus on improving cybersecurity practices 🛡️</samp>
+<samp>- 🔐 Working on secure and reliable software solutions with a focus on improving cybersecurity practices</samp>
 
 <!-- Connect -->
 <h3 align="center"><samp>Connect</samp></h3>
