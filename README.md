@@ -1,17 +1,17 @@
-<!-- Heading -->
+<!-- Heading
 <h1 align="center"><samp>Building Solutions to Enhance Forensics</samp></h1>
 <h2 align="center"><samp>Hi, I'm Nathan, H! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></samp></h2>
 <h3 align="center"><samp>A Forensic Software Engineer based in Australia</samp> </h3>
 
-<!-- Image and Profile views -->
+<!-- Image and Profile views 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 <div style="margin-bottom: 200px;"></div>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=nHunter0" alt="nathan" /><!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=nHunter0" alt="nathan" /><!-- Profile Views 
 </p>
 
-<!-- CTA -->
-<!-- Obfuscated LinkedIn & Email using HTML entities -->
+<!-- CTA 
+<!-- Obfuscated LinkedIn & Email using HTML entities 
 <samp>- 📫 Reach me at 
     <a href="https://linkedin&#46;com/in/h&#45;nathan">
         linkedin&#46;com/in/h&#45;nathan
@@ -26,7 +26,7 @@
 
 <samp>- 🔐 Working on secure and reliable software solutions with a focus on improving cybersecurity practices</samp>
 
-<!-- Connect -->
+<!-- Connect 
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -60,7 +60,7 @@
 <br><br>
 </div>
 
-<!-- Random quote -->
+<!-- Random quote 
 <div align="center">
 <h3 align="center"><samp>✍️ Random Dev Quote</samp></h3>
     <div>
@@ -68,4 +68,4 @@
     </div>
 </div>
 
-<hr> 
+<hr>  -->
